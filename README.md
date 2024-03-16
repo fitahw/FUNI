@@ -12,3 +12,9 @@ Simple program that lets you download only a specified part from any YouTube vid
 # REQUIREMENTS
 
 ffmpeg bin and reqs.txt
+
+# INSTALLATION
+
+```
+python3 index.py
+```
