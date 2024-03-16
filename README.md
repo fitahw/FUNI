@@ -3,7 +3,7 @@ Simple program that lets you download only a specified part from any YouTube vid
 
 # FUTURE PROSPECTS
 
--FFmpeg path specification
+~~-FFmpeg path specification~~
 
 -Functional 'Download All' button
 
