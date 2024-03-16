@@ -11,4 +11,4 @@ Simple program that lets you download only a specified part from any YouTube vid
 
 # REQUIREMENTS
 
-Needs ffmpeg.exe in PATH directory to function.
+ffmpeg bin and reqs.txt
