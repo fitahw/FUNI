@@ -5,9 +5,11 @@ Simple program that lets you download only a specified part from any YouTube vid
 
 ~~-FFmpeg path specification~~
 
--Functional 'Download All' button
+~~-Functional 'Download All' button~~
 
--Customization in output filetype, video/audio quality, clip naming
+~~-Customization in output filetype, video/audio quality, clip naming~~
+
+need more files
 
 # REQUIREMENTS
 
